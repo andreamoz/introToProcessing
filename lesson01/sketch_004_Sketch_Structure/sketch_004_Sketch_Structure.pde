@@ -3,6 +3,6 @@ void setup() {
 }
 
 void draw() {
-  println("...I've told you a thousand times");
+  print("...I've told you a thousand times ");
 }
 
