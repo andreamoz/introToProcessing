@@ -1,12 +1,9 @@
 void setup() {
-  size(100, 100);
+  println("If I told you once...");
   noLoop();
 }
 
 void draw() {
-  point(10, 10);
-  point(10, 90);
-  point(90, 10);
-  point(90, 90);
+  println("...I've told you once");
 }
 
